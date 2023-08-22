@@ -1,0 +1,52 @@
+    *{
+        margin: 0;
+        padding: 0;
+    }
+
+
+
+
+body {
+   background-image:url(https://w0.peakpx.com/wallpaper/344/757/HD-wallpaper-harry-potter-hogwarts-castle.jpg);
+    background-repeat:no-repeat ;
+    background-size:cover;
+    font-family: 'Kaushan Script', cursive;
+    
+}
+
+.gri{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    }
+    .h2{
+        background-color:rgba(0, 0, 0, 0.6);
+        display:unset;
+        flex-direction: row;
+        justify-content:center;
+        align-items: center;
+        gap: 5rem;
+        width: 300px;
+        height: 500px;
+        border-radius: 3%;
+        color: white;
+
+    }
+    p{
+        padding: 1 rem;
+        border: 3px;
+        border-radius: 3%;
+        max-width: 370px;
+        max-height: 850px;
+        color: white;
+    }
+    .meulink{
+        color: white;
+    }
+
+
+
+
+

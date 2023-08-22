@@ -1,0 +1,14 @@
+.box{
+    background-color:rgba(255, 240, 235, 0.7);
+    padding: 1 rem;
+    border: 4px;
+    border-radius: 3%;
+    max-width: 470px;
+    max-height: 950px;
+}
+body{
+    background-image:url(https://www.psu.com/wp/wp-content/uploads/2020/10/Hogwarts-Legacy-PS4-PS5-Wallpapers-07.jpg);
+    background-repeat:no-repeat ;
+    background-size:cover;
+    font-family: 'Kaushan Script', cursive;
+}
